@@ -2,4 +2,5 @@
 
  here is the vedio link showcasing the working of my project
 
-#LINK: https://drive.google.com/file/d/1HRae1hnUA10L_z0aqPAdboCC9VyAXXh6/view?usp=sharing
+ https://github.com/user-attachments/assets/91249ce5-2e62-4c77-9b05-c47b659aad82
+
